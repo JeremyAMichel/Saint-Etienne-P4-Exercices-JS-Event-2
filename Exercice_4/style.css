@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.border-green {
+  border: 1px solid green;
+}
+
+.border-red {
+  border: 1px solid red;
+}
